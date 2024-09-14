@@ -7,7 +7,7 @@
 #define DasHeaderKey_SIM 3031
 #define DasBufferKey_SIM 3032
 
-#define NCHANNELS 2048
+#define NCHANNELS 4096
 #define NParallel 5
 #define NSerial 10
 #define NBeams (NParallel * NSerial)
